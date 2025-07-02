@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 - 🔭 I’m currently working on **Open Source Projects**
-- 📫 How to reach me: [nikhil@example.com](mailto:nikhil@example.com)
+- 📫 How to reach me: [nikhil@example.com](mailto:nikhilkumarmandal946@gmail.com)
 - 💬 Ask me about **JavaScript, Python, and Web Development**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nikhilkumarmandal/)
+- 📄 Know about my experiences [LinkedIn]([https://www.linkedin.com/in/nikhilkumarmandal/](https://www.linkedin.com/in/nikhil-kumar-364189341/))
 - ⚡ Fun fact: I love playing chess and solving puzzles!
 
 ## Skills
@@ -46,6 +46,6 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nikhilkumarmandal/)
-- [Twitter](https://twitter.com/NikhilKumarMandal)
-- [Personal Website](https://nikhilkumarmandal.com)
+- [LinkedIn]([https://www.linkedin.com/in/nikhilkumarmandal/](https://www.linkedin.com/in/nikhil-kumar-364189341/)x)
+- [Twitter]([https://twitter.com/NikhilKumarMandal](https://x.com/Nikhilk91566661))
+- [peerlist Website]([https://nikhilkumarmandal.com](https://peerlist.io/nikhilkumar007))

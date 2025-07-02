@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 - 🔭 I’m currently working on **Open Source Projects**
-- 📫 How to reach me: [nikhil@example.com](mailto:nikhilkumarmandal946@gmail.com)
+- 📫 How to reach me: [nikhilkumarmandal946@gmail.com](mailto:nikhilkumarmandal946@gmail.com)
 - 💬 Ask me about **JavaScript, Python, and Web Development**
 - 📄 Know about my experiences [LinkedIn]([https://www.linkedin.com/in/nikhilkumarmandal/](https://www.linkedin.com/in/nikhil-kumar-364189341/))
 - ⚡ Fun fact: I love playing chess and solving puzzles!

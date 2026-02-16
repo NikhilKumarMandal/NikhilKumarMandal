@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhil Kumar Mandal 👋
+# Hi there, I'm Nikhil Kumar 👋
 
 ## About Me
 
